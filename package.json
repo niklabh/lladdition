@@ -1,0 +1,24 @@
+{
+  "name": "lladdition",
+  "version": "1.0.0",
+  "description": "Linked List addition",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/niklabh/lladdition.git"
+  },
+  "keywords": [
+    "linked",
+    "list",
+    "ds"
+  ],
+  "author": "niklabh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niklabh/lladdition/issues"
+  },
+  "homepage": "https://github.com/niklabh/lladdition#readme"
+}
